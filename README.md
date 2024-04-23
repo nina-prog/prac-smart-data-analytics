@@ -1,14 +1,6 @@
 # prac-smart-data-analytics
 Exploring Smart Data Analytics by tackeling different tasks. This is part of the "Praktikum: Smart Data Analytics" (PSDA) at KIT (Karlsruher Institute of Technology).
 
-## Topics Overview 🗂️
-| exercise | goal | approach | Link to detailed doc |
-|----------|------|----------|----------------------|
-| 01       | TBD  | TBD | TBD |
-| 02       | TBD  | TBD | TBD |
-| 03       | TBD  | TBD | TBD |
-| 04       | TBD  | TBD | TBD |
-
 ## Group Members 👤 
 | Forename | Surname  | Matr.#  |
 |----------|----------|---------|
@@ -17,6 +9,14 @@ Exploring Smart Data Analytics by tackeling different tasks. This is part of the
 |     |  | - |
 |     |  | - |
 |     |  | - |
+
+## Topics Overview 🗂️
+| exercise | goal | approach | Link to detailed doc |
+|----------|------|----------|----------------------|
+| 01       | TBD  | TBD | TBD |
+| 02       | TBD  | TBD | TBD |
+| 03       | TBD  | TBD | TBD |
+| 04       | TBD  | TBD | TBD |
 
 ## Project Structure 🗂️
 ```
