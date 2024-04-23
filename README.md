@@ -2,18 +2,12 @@
 Exploring Smart Data Analytics by tackeling different tasks. This is part of the "Praktikum: Smart Data Analytics" (PSDA) at KIT (Karlsruher Institute of Technology).
 
 ## Topics 🗂️
-1. exercise-01
-  * Goal: TBD
-  * Approach: TBD
-3. exercise-02
-  * Goal: TBD
-  * Approach: TBD
-4. exercise-03
-  * Goal: TBD
-  * Approach:TBD
-5. exercise-04
-  * Goal:TBD
-  * Approach: TBD
+| exercise | goal | approach |
+|----------|------|----------|
+| 01       | TBD  | TBD |
+| 02       | TBD  | TBD |
+| 03       | TBD  | TBD |
+| 04       | TBD  | TBD |
 
 ## Group Members 👤 
 | Forename | Surname  | Matr.#  |
@@ -61,18 +55,21 @@ Exploring Smart Data Analytics by tackeling different tasks. This is part of the
    ```
 
 3. [Optional] Create a virtual environment and activate it. For example, using the built-in `venv` module in Python:
+
    ```
    python3 -m venv venv-psda
    source venv-psda/bin/activate
    ```
 
-4. Install the required packages by running the following command in your terminal:
+5. Install the required packages by running the following command in your terminal:
 
    ```
    pip install -r requirements.txt
    ```
-5. [Optional] Run Jupyter notebooks:
-   ````
-  python -m ipykernel install --user --name=psda python=3.10 # create kernel for jupyter notebook
-  jupyter notebook # or open them via IDE (e.g. VSCode or PyCharm)
-  ````
+   
+7. [Optional] Run Jupyter notebooks:
+
+   ```
+   python -m ipykernel install --user --name=psda python=3.10 # create kernel for jupyter notebook
+   jupyter notebook # or open them via IDE (e.g. VSCode or PyCharm)
+   ```
