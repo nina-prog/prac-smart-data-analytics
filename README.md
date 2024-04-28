@@ -2,13 +2,13 @@
 Exploring Smart Data Analytics by tackeling different tasks. This is part of the "Praktikum: Smart Data Analytics" (PSDA) at KIT (Karlsruher Institute of Technology).
 
 ## Group Members 👤 
-| Forename | Surname | Matr.#  |
-|----------|---------|---------|
-| Nina     | Mertins | - |
-| Johannes | Bordt   | - |
-|          |         | - |
-|          |         | - |
-|          |         | - |
+| Forename  | Surname | Matr.#  |
+|-----------|---------|---------|
+| Nina      | Mertins | - |
+| Johannes  | Bordt   | - |
+| Christoph | Behrens | - |
+|           |         | - |
+|           |         | - |
 
 ## Topics Overview 🗂️
 | exercise | goal | approach | Link to detailed doc |
