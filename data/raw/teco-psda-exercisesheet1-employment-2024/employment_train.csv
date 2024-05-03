@@ -1,4 +1,4 @@
-,age,race,earnwke,employed,unemployed,married,union,ne_states,so_states,ce_states,we_states,government,private,self,educ_lths,educ_hs,educ_somecol,educ_aa,educ_bac,educ_adv,female
+Id,age,race,earnwke,employed,unemployed,married,union,ne_states,so_states,ce_states,we_states,government,private,self,educ_lths,educ_hs,educ_somecol,educ_aa,educ_bac,educ_adv,female
 0,53,1,,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
 1,39,1,,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1
 2,41,1,500,1,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1
