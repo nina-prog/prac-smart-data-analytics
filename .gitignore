@@ -161,3 +161,8 @@ cython_debug/
 
 # Models CatBoost
 catboost_info/
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
