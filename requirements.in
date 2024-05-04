@@ -13,3 +13,5 @@ sklearn
 tpot
 
 imblearn
+
+bayesian-optimization
