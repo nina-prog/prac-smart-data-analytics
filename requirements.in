@@ -3,3 +3,12 @@ colorlog
 numpy
 pandas
 scipy
+seaborn
+plotly
+matplotlib
+tqdm
+tensorflow
+time
+scikit-learn
+catboost
+xgboost
