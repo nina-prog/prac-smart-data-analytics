@@ -7,7 +7,7 @@ Exploring Smart Data Analytics by tackeling different tasks. This is part of the
 | Nina      | Mertins | - |
 | Johannes  | Bordt   | - |
 | Christoph | Behrens | - |
-| Niklas    |         | - |
+| Niklas    | Quendt  | - |
 | Frederik  |         | - |
 
 ## Topics Overview 🗂️
